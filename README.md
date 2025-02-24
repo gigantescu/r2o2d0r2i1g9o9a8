@@ -1,3 +1,5 @@
+ - onOpenNpcTrade(items) - Fazer o Extract no open, para evitar utilização excessiva
+
 Perfeito! Você pode usar um formato semelhante para estruturar o seu módulo. Vou ajustar os exemplos anteriores para seguir esse estilo.
 
 ### Módulo 1: Save Trade NPC
